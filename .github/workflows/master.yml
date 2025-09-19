@@ -1,4 +1,4 @@
-name: Pipeline para Deploy da aplicação
+name: Pipeline (DEVOPS) para Deploy da aplicação
 
 on:
   push:
